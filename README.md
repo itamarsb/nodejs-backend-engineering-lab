@@ -25,6 +25,33 @@ Repositório focado na construção de aplicações modernas utilizando **Node.j
 
 ---
 
+## Visão Geral
+
+```mermaid
+flowchart TD
+
+A[Fundamentos Node.js]
+B[TypeScript]
+C[Express]
+D[NestJS]
+E[PostgreSQL]
+F[Docker]
+G[Testes]
+H[Observabilidade]
+I[Projeto Final]
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+G --> H
+H --> I
+```
+
+---
+
 # 📖 Sobre o Projeto
 
 Este repositório reúne uma sequência de laboratórios práticos desenvolvidos para preparar candidatos para vagas de **Desenvolvedor Backend Júnior**.
