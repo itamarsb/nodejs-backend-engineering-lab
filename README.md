@@ -224,6 +224,28 @@ Este repositório faz parte de um conjunto de projetos desenvolvidos para demons
 
 ---
 
+# Competências Desenvolvidas
+
+Ao concluir este repositório o estudante terá desenvolvido experiência prática em:
+
+- Desenvolvimento Backend
+- APIs REST
+- Arquitetura em Camadas
+- SOLID
+- Clean Architecture
+- TypeScript
+- NestJS
+- PostgreSQL
+- Docker
+- Testes Automatizados
+- Swagger/OpenAPI
+- JWT
+- Logs Estruturados
+- Observabilidade
+- Deploy
+
+---
+
 # 🤝 Contribuições
 
 Sugestões de melhorias, correções e novas ideias são sempre bem-vindas.
