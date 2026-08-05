@@ -72,7 +72,7 @@ Ao longo dos laboratórios será construída uma aplicação real utilizando tec
 | ⬜ | LAB 14 — Testes Automatizados |
 | ⬜ | LAB 15 — Documentação com Swagger |
 | ⬜ | LAB 16 — Logs Estruturados |
-| ⬜ | LAB 17 — Observabilidade para Desenvolvedores |
+| ⬜ | LAB 17 — Métricas e Observabilidade para Desenvolvedores |
 | ⬜ | LAB 18 — Tratamento Global de Erros |
 | ⬜ | LAB 19 — Segurança |
 | ⬜ | LAB 20 — Projeto Final |
