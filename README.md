@@ -116,6 +116,73 @@ Ao final do roadmap será desenvolvido um sistema completo de gestão para conce
 └── roadmap.md
 ```
 
+
+---
+
+
+```mermaid
+flowchart TB
+    REPO["nodejs-backend-engineering-lab"]
+
+    REPO --> ROOT["Arquivos principais"]
+    REPO --> SUPPORT["Recursos de apoio"]
+    REPO --> LABS["Laboratórios práticos"]
+    REPO --> FINAL["Projeto final"]
+
+    ROOT --> README["README.md<br/>Visão geral do portfólio"]
+    ROOT --> ROADMAP["roadmap.md<br/>Planejamento e progresso"]
+    ROOT --> LICENSE["LICENSE<br/>Licença MIT"]
+    ROOT --> GITIGNORE[".gitignore<br/>Arquivos ignorados pelo Git"]
+
+    SUPPORT --> ASSETS["assets/<br/>Banners, diagramas e imagens"]
+    SUPPORT --> DOCS["docs/<br/>Documentação complementar"]
+    SUPPORT --> TEMPLATES["templates/<br/>Modelos padronizados"]
+    SUPPORT --> GITHUB[".github/<br/>Issues, pull requests e workflows"]
+
+    LABS --> FOUNDATION["Fundamentos<br/>LAB 01 ao LAB 04"]
+    LABS --> API["Desenvolvimento de APIs<br/>LAB 05 ao LAB 07"]
+    LABS --> DATA["Persistência de dados<br/>LAB 08 ao LAB 12"]
+    LABS --> QUALITY["Qualidade e entrega<br/>LAB 13 ao LAB 15"]
+    LABS --> PRODUCTION["Operação e segurança<br/>LAB 16 ao LAB 19"]
+
+    FOUNDATION --> NODE["Node.js"]
+    FOUNDATION --> TYPESCRIPT["TypeScript"]
+    FOUNDATION --> EXPRESS["Express"]
+    FOUNDATION --> NESTJS["NestJS"]
+
+    API --> REST["APIs REST"]
+    API --> VALIDATION["DTOs e validação"]
+    API --> AUTH["Autenticação JWT"]
+
+    DATA --> POSTGRES["PostgreSQL"]
+    DATA --> TYPEORM["TypeORM"]
+    DATA --> CRUD["CRUD"]
+    DATA --> PAGINATION["Paginação"]
+    DATA --> FILTERS["Filtros e busca"]
+
+    QUALITY --> DOCKER["Docker"]
+    QUALITY --> TESTS["Testes com Jest"]
+    QUALITY --> SWAGGER["Swagger / OpenAPI"]
+
+    PRODUCTION --> LOGS["Logs estruturados"]
+    PRODUCTION --> OBSERVABILITY["Observabilidade"]
+    PRODUCTION --> ERRORS["Tratamento de erros"]
+    PRODUCTION --> SECURITY["Segurança"]
+
+    FINAL --> DEALERSHIP["LAB 20<br/>Sistema de Gestão para Concessionárias"]
+
+    classDef main fill:#1e293b,color:#ffffff,stroke:#38bdf8,stroke-width:2px;
+    classDef group fill:#0f172a,color:#ffffff,stroke:#64748b,stroke-width:1.5px;
+    classDef item fill:#f8fafc,color:#0f172a,stroke:#94a3b8,stroke-width:1px;
+    classDef final fill:#7f1d1d,color:#ffffff,stroke:#ef4444,stroke-width:2px;
+
+    class REPO main;
+    class ROOT,SUPPORT,LABS,FINAL,FOUNDATION,API,DATA,QUALITY,PRODUCTION group;
+    class README,ROADMAP,LICENSE,GITIGNORE,ASSETS,DOCS,TEMPLATES,GITHUB,NODE,TYPESCRIPT,EXPRESS,NESTJS,REST,VALIDATION,AUTH,POSTGRES,TYPEORM,CRUD,PAGINATION,FILTERS,DOCKER,TESTS,SWAGGER,LOGS,OBSERVABILITY,ERRORS,SECURITY item;
+    class DEALERSHIP final;
+```
+
+
 ---
 
 # Diferenciais
