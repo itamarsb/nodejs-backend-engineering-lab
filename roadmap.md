@@ -53,7 +53,7 @@ Ao concluir todos os laboratórios deste repositório, o desenvolvedor terá pra
 | ⬜ | LAB 14 — Testes Automatizados | Jest, testes unitários e integração |
 | ⬜ | LAB 15 — Documentação | Swagger/OpenAPI |
 | ⬜ | LAB 16 — Logs Estruturados | Logging profissional |
-| ⬜ | LAB 17 — Métricas | Prometheus/OpenTelemetry |
+| ⬜ | LAB 17 — Métricas e Observabilidade para Desenvolvedores | Prometheus/OpenTelemetry |
 | ⬜ | LAB 18 — Tratamento Global de Erros | Exception Filters |
 | ⬜ | LAB 19 — Segurança | Helmet, CORS, Rate Limit |
 | ⬜ | LAB 20 — Projeto Final | Sistema completo |
