@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+    <img src="assets/Topo_repositorio_NodeJs_backend_2026, 20_39_49.png">
+</p>
+
 # 🚀 Node.js Backend Engineering Lab
 
 ### Laboratórios práticos para preparação de Desenvolvedores Backend Júnior
