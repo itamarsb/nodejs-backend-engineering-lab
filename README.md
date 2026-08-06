@@ -133,7 +133,7 @@ A evolução do repositório foi organizada em laboratórios independentes, perm
 ### Legenda
 
 | Símbolo | Significado |
-|---------|-------------|
+|:---------:|-------------|
 | ⬜ | Não iniciado |
 | 🟨 | Em desenvolvimento |
 | ✅ | Concluído |
