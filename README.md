@@ -88,7 +88,7 @@ Ao concluir este repositório, o desenvolvedor terá praticado:
 # 🛠️ Tecnologias
 
 | Categoria | Tecnologias |
-|------------|-------------|
+|:------------:|-------------|
 | Linguagem | Node.js, TypeScript |
 | Framework | NestJS, Express |
 | Banco de Dados | PostgreSQL |
