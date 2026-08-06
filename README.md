@@ -129,6 +129,16 @@ A evolução do repositório foi organizada em laboratórios independentes, perm
 | ⬜ | **LAB 19 — Deploy em Produção** | Publicar a aplicação | Docker, Nginx |
 | ⬜ | **LAB 20 — Projeto Final** | Consolidar todos os conhecimentos adquiridos | Node.js, NestJS |
 
+
+### Legenda
+
+| Símbolo | Significado |
+|---------|-------------|
+| ⬜ | Não iniciado |
+| 🟨 | Em desenvolvimento |
+| ✅ | Concluído |
+
+
 ➡️ **Roadmap completo:** [roadmap.md](roadmap.md)
 
 
