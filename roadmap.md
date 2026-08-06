@@ -69,7 +69,7 @@ Cada laboratório desenvolve uma competência específica, permitindo uma evolu�
 ## Legenda
 
 | Símbolo | Significado |
-|---------|-------------|
+|:---------:|-------------|
 | ⬜ | Não iniciado |
 | 🟨 | Em desenvolvimento |
 | ✅ | Concluído |
