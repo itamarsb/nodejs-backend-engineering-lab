@@ -102,30 +102,35 @@ Ao concluir este repositório, o desenvolvedor terá praticado:
 
 ---
 
-# 🗺️ Roadmap
+## 🗺️ Roadmap
 
-| Status | Laboratório |
-|:------:|-------------|
-| ⬜ | LAB 01 — Fundamentos do Node.js |
-| ⬜ | LAB 02 — Fundamentos do TypeScript |
-| ⬜ | LAB 03 — Primeira API com Express |
-| ⬜ | LAB 04 — Primeira API com NestJS |
-| ⬜ | LAB 05 — APIs REST |
-| ⬜ | LAB 06 — Validação de Dados |
-| ⬜ | LAB 07 — Autenticação com JWT |
-| ⬜ | LAB 08 — PostgreSQL |
-| ⬜ | LAB 09 — TypeORM |
-| ⬜ | LAB 10 — CRUD Completo |
-| ⬜ | LAB 11 — Paginação |
-| ⬜ | LAB 12 — Filtros e Busca |
-| ⬜ | LAB 13 — Docker |
-| ⬜ | LAB 14 — Testes Automatizados |
-| ⬜ | LAB 15 — Documentação com Swagger |
-| ⬜ | LAB 16 — Logs Estruturados |
-| ⬜ | LAB 17 — Observabilidade para Desenvolvedores |
-| ⬜ | LAB 18 — Tratamento Global de Erros |
-| ⬜ | LAB 19 — Segurança |
-| ⬜ | LAB 20 — Projeto Final |
+A evolução do repositório foi organizada em laboratórios independentes, permitindo estudar cada conceito de forma incremental.
+
+| Status | Laboratório | Objetivo | Principais Tecnologias |
+|:------:|-------------|----------|------------------------|
+| ⬜ | **LAB 01 — Fundamentos do Node.js** | Conhecer o runtime, npm e estrutura de projetos | Node.js, npm |
+| ⬜ | **LAB 02 — Fundamentos do TypeScript** | Aprender tipagem estática e recursos modernos da linguagem | TypeScript |
+| ⬜ | **LAB 03 — Primeira API com Express** | Construir uma API REST simples | Express.js |
+| ⬜ | **LAB 04 — Primeira API com NestJS** | Conhecer a arquitetura do framework | NestJS |
+| ⬜ | **LAB 05 — APIs REST** | Implementar boas práticas em APIs RESTful | REST, HTTP |
+| ⬜ | **LAB 06 — Validação de Dados** | Validar requisições de entrada | class-validator, ValidationPipe |
+| ⬜ | **LAB 07 — Autenticação com JWT** | Implementar autenticação baseada em tokens | JWT, Passport |
+| ⬜ | **LAB 08 — PostgreSQL** | Integrar a aplicação com banco de dados relacional | PostgreSQL |
+| ⬜ | **LAB 09 — TypeORM** | Trabalhar com ORM e persistência de dados | TypeORM |
+| ⬜ | **LAB 10 — CRUD Completo** | Desenvolver operações completas de CRUD | NestJS, PostgreSQL |
+| ⬜ | **LAB 11 — Paginação** | Implementar paginação e ordenação | TypeORM |
+| ⬜ | **LAB 12 — Filtros e Busca** | Criar consultas avançadas | SQL, QueryBuilder |
+| ⬜ | **LAB 13 — Docker** | Containerizar a aplicação | Docker |
+| ⬜ | **LAB 14 — Testes Automatizados** | Escrever testes unitários e de integração | Jest |
+| ⬜ | **LAB 15 — Documentação com Swagger** | Gerar documentação automática da API | Swagger / OpenAPI |
+| ⬜ | **LAB 16 — Logs Estruturados** | Produzir logs profissionais | Winston, Pino |
+| ⬜ | **LAB 17 — Observabilidade** | Introduzir métricas e tracing | OpenTelemetry |
+| ⬜ | **LAB 18 — Tratamento Global de Erros** | Padronizar respostas de erro | Exception Filters |
+| ⬜ | **LAB 19 — Deploy em Produção** | Publicar a aplicação | Docker, Nginx |
+| ⬜ | **LAB 20 — Projeto Final** | Consolidar todos os conhecimentos adquiridos | Node.js, NestJS |
+
+➡️ **Roadmap completo:** [roadmap.md](roadmap.md)
+
 
 ---
 
