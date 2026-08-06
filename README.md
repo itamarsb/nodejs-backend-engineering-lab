@@ -272,3 +272,11 @@ Caso identifique algum problema ou queira contribuir com o projeto, fique à von
 # 📄 Licença
 
 Este projeto é distribuído sob a licença **MIT**.
+
+---
+
+<p align="center">
+    
+<a href="https://info.flagcounter.com/xQCQ"><img src="https://s01.flagcounter.com/count/xQCQ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_100/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+</p>
